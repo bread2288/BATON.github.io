@@ -1,0 +1,67 @@
+ body {
+    background-color: white;
+    text-align: center;
+    font-size: 18px;
+	font-family: Fantasy;
+	color: #202020;
+}
+
+.banner {
+	font-size: 72px;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+.left {
+	text-align: left;
+	margin-left: 30%;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.button {
+   transition-duration: 0.8s;
+	background-color: dodgerblue;
+	border-radius: 15px;
+	margin-bottom: 5px;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 25px;
+	padding: 5px 10px;
+}
+
+.button:hover {
+	background-color: indianred;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 31px;
+	padding: 10px 15px;
+}
+
+.footer {
+	background-color: dodgerblue;
+	position: fixed;
+	right: 25%;
+	bottom: 0px;
+	text-align: center;
+	width: 50%;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+	opacity: 100%;
+}
+
+p {
+	font-size: 20px;
+	font-weight: normal;
+	margin: 5px 5px 5px 5px;
+}
